@@ -12,7 +12,7 @@
   
 ## Description
 
-README.md is an important document for any application as a guide that provides essential information on a project which includes the project title, sections on description, usage, installation, contribution, test, credits, license, badge, test, and questions. This application uses many tools, Node.js, npm, require, shields.io, and Inquirer version 8.2.4, for collecting inputs from the responsive user, and then dynamically generates README.md files so that the students can be more devoted to working on the project.
+README.md is an important document for any application as a guide that provides essential information on a project which includes the project title, sections on description, usage, installation, contribution, credits, license, badge, test, and questions. This application uses many tools, Node.js, npm, require, shields.io, and inquirer version 8.2.4, for collecting inputs from the responsive user, and then dynamically generates README.md files so that the students can be more devoted to working on the project.
 
 ## Usage
 The concept can be expanded to different types of templates based on user interests and needs. This application for generating README files is useful for web developers and students, and the code can be edited in the Visual Studio Code. The application will be invoked by using the command:  node index.js in the terminal.
@@ -21,8 +21,8 @@ The concept can be expanded to different types of templates based on user intere
 npm i
 
 ## Contribution
- Contribution is voluntary and any contribution will likely increase that other  
- developers will contribute to the success of the project. 
+Contribution is voluntary and any contribution will likely increase that other  
+developers will contribute to the success of the project. 
 
 ## Credits 
 100 Points 
