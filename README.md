@@ -1,6 +1,7 @@
 # README.md 
-  ![License](https://img.shields.io/badge/license-MIT-blue)
-  ## Table of Contents
+  ![License](https://img.shields.io/badge/license-MIT-blue)      
+  
+## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
   * [Installation](#installation)
